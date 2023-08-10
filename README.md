@@ -1,0 +1,2 @@
+# Simple-Bigram-Language-Model
+This is a simple language model that predicts the next word in a sentence. It works by first creating a dictionary of n-grams, where each n-gram is a sequence of N words. The model then calculates the probability of each n-gram in the dictionary. When the user enters a sentence, the model predicts the next word by finding the n-gram that matches the first N words of the sentence and then selecting the word with the highest probability.
