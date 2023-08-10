@@ -1,0 +1,118 @@
+this is a simple language model example
+language model is used to predict next words
+next words in a sentence can be predicted using n-grams
+n-grams are sequences of n words
+in this example we use trigrams
+trigrams are 3-word sequences
+this is just sample data for training
+you can replace this with your own text
+training data helps the model learn patterns
+the more diverse the training data, the better the predictions
+language models have various applications
+they are used in text generation, completion, and more
+n-grams help capture local context
+larger n-grams capture more global context
+the frequency of n-grams affects their predictions
+probability is used to make predictions
+let's test the language model
+enter a sentence to predict the next words
+hello how are you
+this is an example sentence
+the quick brown fox jumps
+machine learning is an exciting field
+natural language processing is used in many applications
+deep learning has revolutionized the field
+computers can understand and generate human-like text
+tokenization is an important step in language processing
+models like GPT-3 achieve impressive results
+this is the end of the sample data
+you can add more data to improve the model's accuracy
+the sun was shining brightly in the clear blue sky
+birds were chirping and flowers were in full bloom
+the wind whispered through the trees
+children played joyfully in the park
+the ocean waves crashed against the shore
+mountains stood tall and majestic in the distance
+the city buzzed with activity and life
+people hurriedly walked down busy streets
+technology has changed the way we live and work
+innovation drives progress and advancements
+exploration of outer space continues to expand
+medicine and science improve human health
+art and music inspire creativity and emotion
+history is a tapestry woven with stories of the past
+great leaders have shaped the course of nations
+love and compassion unite us as human beings
+laughter is a universal language
+adventure awaits those who seek it
+dreams fuel ambition and drive success
+failure is a stepping stone to achievement
+time is a precious resource, use it wisely
+education empowers and enlightens the mind
+the universe is vast and full of mysteries
+knowledge is a key to unlocking potential
+curiosity fuels discovery and innovation
+friendship is a bond that transcends distance
+family provides love, support, and belonging
+society thrives when individuals cooperate
+diversity enriches our understanding of the world
+empathy and kindness make the world a better place
+every action has consequences, choose wisely
+change is inevitable and necessary for growth
+challenges test our strength and resilience
+perseverance overcomes obstacles and hurdles
+success is the result of dedication and effort
+happiness is found in the simple moments of life
+the power of imagination knows no bounds
+creativity flows like a river through the mind
+technology connects us and bridges distances
+nature's beauty is a source of inspiration
+the arts express the soul's deepest emotions
+learning is a lifelong journey of discovery
+courage empowers us to face our fears
+hope is a beacon that guides us through darkness
+the world is a canvas waiting to be painted
+science unlocks the secrets of the universe
+progress is made through innovation and change
+communication bridges gaps and fosters understanding
+compassion heals wounds and mends broken hearts
+knowledge is a treasure that grows with sharing
+leadership guides and shapes the path forward
+dreams inspire us to reach for the stars
+imagination creates worlds beyond reality
+kindness is a language that everyone understands
+love is the foundation of meaningful relationships
+music touches the soul and stirs the heart
+nature's wonders fill us with awe and wonder
+optimism brightens even the darkest days
+perseverance leads to triumph over adversity
+purpose gives life meaning and direction
+reflection deepens our understanding of self
+wisdom comes from a lifetime of experiences
+youth is a time of exploration and growth
+acceptance embraces diversity and differences
+balance brings harmony to our lives
+connection brings people closer together
+delight is found in life's little pleasures
+effort is the engine that drives achievement
+freedom is a fundamental human right
+gratitude turns what we have into enough
+honesty builds trust and integrity
+imagination fuels creativity and innovation
+joy is a feeling that warms the heart
+kindness is a gift that keeps on giving
+laughter is contagious and brings joy to others
+memories shape the story of our lives
+new beginnings open doors to opportunities
+opinions vary and contribute to discussions
+patience is a virtue that leads to success
+quiet moments bring peace and tranquility
+resilience enables us to bounce back from setbacks
+strength comes from facing challenges head-on
+trust is the foundation of strong relationships
+unity is strength, and together we can achieve more
+vulnerability leads to authentic connections
+wonder sparks curiosity and exploration
+xenophobia has no place in a compassionate world
+youth is a time of energy and enthusiasm
+zeal drives us to pursue our passions

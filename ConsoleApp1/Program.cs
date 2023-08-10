@@ -54,8 +54,6 @@ namespace SimpleLanguageModel
             // Prompt the user for a sentence.
             Console.WriteLine("Enter a sentence: ");
             line = Console.ReadLine();
-            
-            Console.WriteLine("Point #1");
 
             // Predict the next word in the sentence.
             string[] inputWords = line.Split(' ');
@@ -63,14 +61,12 @@ namespace SimpleLanguageModel
             string ngram1 = string.Join(" ", inputWords, inputWords.Length - 2, N);
             if (ngrams.TryGetValue(ngram1, out Dictionary<string, NWord> ng2))
             {
-                Debug.WriteLine("Point #2");
                 // Find the word with the highest probability.
                 string nextWord = ng2.Keys.First();
                 float maxProbability = ng2.Values.First().probability;
 
                 foreach (var w in ng2)
                 {
-                    Debug.WriteLine("Point #3");
                     if (w.Value.probability > maxProbability)
                     {
                         maxProbability = w.Value.probability;
@@ -80,9 +76,7 @@ namespace SimpleLanguageModel
 
                 // Print the next word.
                 Console.Write(line + " " + nextWord);
-                Debug.WriteLine("Point #4");
             }
-            Debug.WriteLine("Point #5");
 
             Console.WriteLine();
         }
